@@ -1,0 +1,4 @@
+﻿  Guess.cpp
+D:\Proiecte\Projects\Guess the number\Guess the number\Guess.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Proiecte\Projects\Guess the number\Guess the number\Guess.cpp(10,7): warning C4101: 'rasp': unreferenced local variable
+  Guess the number.vcxproj -> D:\Proiecte\Projects\Guess the number\Debug\Guess the number.exe
